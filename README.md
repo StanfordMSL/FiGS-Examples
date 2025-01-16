@@ -16,7 +16,6 @@ make install -j4
 # Add acados paths to bashrc
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:"<acados_root>/lib"
 export ACADOS_SOURCE_DIR="<acados_root>"
-
 ```
 3) Setup conda environment and download gsplat examples
 ```
