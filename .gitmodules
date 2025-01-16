@@ -1,0 +1,3 @@
+[submodule "FiGS"]
+	path = FiGS
+	url = https://github.com/StanfordMSL/FiGS.git
