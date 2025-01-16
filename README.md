@@ -22,10 +22,10 @@ export ACADOS_SOURCE_DIR="<acados_root>"
 ```
 # in FiGS
 conda env create -f environment_x86.yml
-conda activate figs
+conda activate figs-env
 ```
 3) Download example gsplat data
 ```
-# in FiGS directory
+# in main directory (where gsplats is a subdirectory)
 gdown --folder https://drive.google.com/drive/folders/1Q3Jxt08MUev_jWzHjpdltze7X4VArsvA?usp=drive_link --remaining-ok
 ```

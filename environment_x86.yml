@@ -30,7 +30,5 @@ dependencies:
     - git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
     - nerfstudio==1.1.4
     - -e ./FiGS/
-    - -e ./acados/interfaces/acados_template/
-    - -e ./Hierarchical-Localization/
-prefix: /home/lowjunen/anaconda3/envs/figs
-
+    - -e ./FiGS/acados/interfaces/acados_template/
+    - -e ./FiGS/Hierarchical-Localization/
