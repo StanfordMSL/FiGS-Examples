@@ -1,0 +1,68 @@
+{
+    "Nco": 6,
+    "keyframes": {
+        "fo0": {
+            "t": 0.0,
+            "fo":   [
+                [  1.00],
+                [  0.00],
+                [ -1.00],
+                [  3.90]
+            ]
+        },
+        "fo1": {
+            "t": 3.0,
+            "fo":   [
+                [ -1.00, null, null, null],
+                [  0.00, null, null, null],
+                [ -1.00, null, null, null],
+                [  1.85, null, null, null]
+            ]
+        },
+        "fo2": {
+            "t": 6.0,
+            "fo":   [
+                [  0.00, null, null, null],
+                [  5.00, null, null, null],
+                [ -1.40, null, null, null],
+                [  1.20, null, null, null]
+            ]
+        },
+        "fo3": {
+            "t": 9.0,
+            "fo":   [
+                [  1.00, null, null, null],
+                [ 10.00, null, null, null],
+                [ -1.00, null, null, null],
+                [  4.30, null, null, null]
+            ]
+        },
+        "fo4": {
+            "t": 12.0,
+            "fo":   [
+                [ -1.00, null, null, null],
+                [ 10.00, null, null, null],
+                [ -1.00, null, null, null],
+                [  4.70, null, null, null]
+            ]
+        },
+        "fo5": {
+            "t": 15.0,
+            "fo":   [
+                [  0.00, null, null, null],
+                [  5.00, null, null, null],
+                [ -0.60, null, null, null],
+                [  5.20, null, null, null]
+            ]
+        },
+        "fo6": {
+            "t": 18.0,
+            "fo":   [
+                [  1.00, 0.00, 0.00],
+                [  0.00, 0.00, 0.00],
+                [ -1.00, 0.00, 0.00],
+                [  3.14, 0.00, 0.00]
+            ]
+        }
+    }
+}
